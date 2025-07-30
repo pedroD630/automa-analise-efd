@@ -1,5 +1,7 @@
 # automa-analise-efd
-Scripts para automatizar análise de arquivos efd e encontrar diferenças e alterações nos arquivos, a fim de corrigir internamente no sistema erp Arius
+Scripts para automatizar análise de arquivos efd e encontrar diferenças e alterações nos arquivos, a fim de corrigir internamente no sistema erp Arius.
+
+Script gerados por GPT e adequados de acordo com a necessidade de análise.
 
 ⚙️ Funcionalidades
 
